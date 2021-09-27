@@ -376,7 +376,3 @@ v0.81
 
 v0.8
 - First public release
-
-Copyright (C) 2013-2019 July Ighor
-Contact: `julyighor@gmail.com`
-Donate: `1d6iMwjjNo8ZGYeJBZKXgcgVk9o7fXcjc`
