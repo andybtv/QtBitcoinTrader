@@ -12,9 +12,8 @@ Next ToDo:
 
 ## Download binaries
 
-* https://sourceforge.net/projects/bitcointrader/  `Win32`,`Mac`,`Linux`
-* http://www.softpedia.com/get/Others/Finances-Business/Bitcoin-Trader.shtml `Win32`
-* http://mac.softpedia.com/get/Finance/Qt-Bitcoin-Trader.shtml `Mac`
+* https://github.com/andybtv/QtBitcoinTrader/releases/download/v1.40.60/qtbticointrader_win_v1.40.60.zip  `Win32`
+* https://github.com/andybtv/QtBitcoinTrader/releases/download/v1.40.60/qtbitcointrader_mac_v1.40.60.zip `Mac`
 
 ## Compilation on Linux
 * `sudo apt-get install g++ libssl-dev libglu1-mesa-dev qt5-qmake qtscript5-dev qtmultimedia5-dev git`
